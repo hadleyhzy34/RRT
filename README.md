@@ -31,4 +31,4 @@ cd build
 python traj_vis.py
 ```
 
-![trajectory](./rrt_trajectory.png)
+![trajectory](https://github.com/hadleyhzy34/RRT/blob/main/rrt_trajectory.png)
