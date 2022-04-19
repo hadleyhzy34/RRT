@@ -1,4 +1,4 @@
-# rrt and `rrt*` application
+# `rrt` and `rrt*` application
 This repository is an implementation of C++ version of global rapidly exploring random tree and its improved version algorithm
 
 ## Environments

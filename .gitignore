@@ -33,7 +33,3 @@ build/*
 *.exe
 *.out
 *.app
-
-src/rrt.py
-
-.gitinore
